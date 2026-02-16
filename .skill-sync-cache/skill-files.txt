@@ -1,0 +1,2 @@
+/c/Users/Maximiliano/Desktop/Repos/Git_Personal/landing_siroe_next_gen/.agents/skills/landing-page-guide-v2/SKILL.md
+/c/Users/Maximiliano/Desktop/Repos/Git_Personal/landing_siroe_next_gen/.agents/skills/ui-animation/SKILL.md

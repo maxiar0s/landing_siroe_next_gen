@@ -6,6 +6,7 @@ import { FooterSectionComponent } from './components/footer-section.component';
 import { HeroSectionComponent } from './components/hero-section.component';
 import { ProfilesSectionComponent } from './components/profiles-section.component';
 import { StaffingSectionComponent } from './components/staffing-section.component';
+import { TopNavComponent } from './components/top-nav.component';
 import { ToolkitSectionComponent } from './components/toolkit-section.component';
 import { WhatsappFloatComponent } from './components/whatsapp-float.component';
 
@@ -14,6 +15,7 @@ import { WhatsappFloatComponent } from './components/whatsapp-float.component';
   standalone: true,
   imports: [
     HeroSectionComponent,
+    TopNavComponent,
     AdnIaSectionComponent,
     StaffingSectionComponent,
     ProfilesSectionComponent,
